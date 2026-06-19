@@ -39,10 +39,3 @@ calculator/
 * CSS Grid layout
 * Arithmetic operations using JavaScript
 
-## Author
-
-Your Name
-
-## License
-
-This project is for educational purposes.
